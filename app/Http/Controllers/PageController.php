@@ -10,7 +10,7 @@ Class PageController extends Controller
         return "Selamat Datang";
     }
     public function about() {
-        echo "NIM : 20417201720<br>Nama : Nurlaily Asrobika<br>Kelas : TI-2B"; 
+        echo "NIM : 2041720172<br>Nama : Nurlaily Asrobika<br>Kelas : TI-2B"; 
     }
 
     public function articles($id) {
